@@ -45,7 +45,7 @@ export default {
         ft: '_',
         fv: 0.03,
         st: 1,
-        p: 'bc9369a886c044aee95dd219a6389f60991e4d420914e24fc5610622e02636b2'
+        p: ''
       }
     }
   },
